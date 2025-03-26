@@ -1,7 +1,7 @@
 World Happiness Index and Inflation Dataset Analysis
-This project explores the relationship between economic stability and overall well-being by analyzing the World Happiness Index and Inflation Dataset. The dataset, which is available on Kaggle, includes data from 148 countries spanning the years 2015 to 2023. It combines the World Happiness Index with key economic indicators—such as GDP per capita, inflation—and social factors like freedom, social support, and generosity. In this project, the term Score is used as a proxy for a country's happiness level.
+This project explores the relationship between economic stability and overall well-being by analyzing the World Happiness Index and Inflation Dataset. The dataset, which is available on Kaggle, includes data from 148 countries spanning the years 2015 to 2023. It combines the World Happiness Index with key economic indicators such as GDP per capita, inflation and social factors like freedom, social support, and generosity. In this project, the term Score is used as a proxy for a country's happiness level.
 The analysis focuses on answering five primary questions:
-________________________________________
+
 1. Distribution of Scores
 Objective:
 The goal here is to understand the overall spread of the Score values in the dataset and to identify any potential outliers. This involves generating descriptive statistics and creating visual representations such as a histogram (with a density estimate) and a boxplot.
